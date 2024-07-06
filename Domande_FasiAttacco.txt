@@ -1,0 +1,39 @@
+La fase in cui l'attaccante raccoglie informazioni sull'obiettivo è:
+
+c) Reconnaissance
+
+L'attività che rientra nella fase di Delivery è:
+
+b) Invio di email di phishing
+
+La fase in cui l'attaccante utilizza exploit per ottenere l'accesso al sistema è:
+
+d) Exploitation
+
+La fase che prevede l'installazione di trojan o rootkit è:
+
+d) Installation
+
+L'obiettivo della fase di Command & Control (C2) è:
+
+b) Stabilire un canale di comunicazione con il sistema compromesso
+
+La tecnica usata nella fase di Exploitation è:
+
+c) Buffer overflow
+
+La fase in cui l'attaccante esegue l'esfiltrazione dei dati è:
+
+b) Action & Objective
+
+Un esempio di una tecnica di ricognizione passiva è:
+
+c) Analisi dei profili social dell'obiettivo
+
+Lo strumento che potrebbe essere utilizzato durante la fase di Weaponization è:
+
+b) CVE repository
+
+L'obiettivo finale dell'attaccante nella fase di Action & Objective è:
+
+c) Raggiungere gli obiettivi dell'attacco, come esfiltrazione di dati o sabotaggio
