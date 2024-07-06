@@ -1,0 +1,32 @@
+L'azione fondamentale per difendersi dalla fase di Recognition è:
+b) Limitare le informazioni pubblicate
+
+La funzione di un sistema IDS (Intrusion Detection System) è:
+c) Monitora il traffico di rete
+
+Un esempio di software IDS è:
+c) Snort
+
+Lo strumento utile per difendersi dalla fase di Weaponization è:
+d) Nessus
+
+La tecnica che aiuta a difendersi dalla fase di Delivery è:
+b) Filtri su email
+
+Il sandboxing è:
+c) Esecuzione di file in ambienti isolati
+
+Qual è una delle principali funzioni dei sistemi EDR?
+b) Monitorare e tracciare gli endpoint
+
+Quale tra questi software è un esempio di EDR?
+c) SentinelOne
+
+Quale tecnica di difesa è utile durante la fase Action & Objective?
+c) Esecuzione di file in sandbox
+
+Quale dei seguenti strumenti è utilizzato per la Data Loss Prevention (DLP)?
+d) DLP
+
+
+
